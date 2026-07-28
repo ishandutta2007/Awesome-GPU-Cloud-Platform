@@ -33,21 +33,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## ☁️ SaaS/Hosted Platforms
 
 ### Core Platforms (GPU Cloud / Neoclouds)
-| Platform | Description | Pricing / Free Tier |
-| :--- | :--- | :--- |
-| **[CoreWeave](https://www.coreweave.com/)** | Large-scale NVIDIA GPU cloud purpose-built for AI training and inference; bare-metal clusters, InfiniBand, Kubernetes-native (CKS), enterprise SLAs. | No free tier. Enterprise pricing (e.g., H100 ~$4.25/hr). |
-| **[Lambda](https://lambda.ai/)** (Lambda Labs) | Developer- and researcher-friendly GPU cloud with transparent pricing, on-demand and reserved H100/A100 clusters, strong academic ties. | No free tier. A100 ~$1.10/hr, H100 ~$2.49/hr. |
-| **[Crusoe Cloud](https://www.crusoe.ai/)** (Crusoe Energy) | Sustainable GPU cloud powered by stranded/flared gas and renewables; vertically integrated data centers focused on energy efficiency and large contiguous clusters. | No free tier. Competitive on-demand pricing. |
-| **[RunPod](https://www.runpod.io/)** | Developer-centric GPU marketplace with pods, serverless endpoints, per-second billing, wide GPU selection (consumer to H100/H200), and strong community cloud. | No free tier. RTX 3090 ~$0.20/hr, H100 ~$1.99/hr. |
-| **[Vast.ai](https://vast.ai/)** | Peer-to-peer GPU marketplace offering some of the lowest prices; rent from independent hosts or data centers with interruptible/spot options. | No free tier. Varies by host, often lowest market rates. |
-| **[Fluidstack](https://www.fluidstack.io/)** | Distributed GPU cloud combining private capacity and marketplace aggregation; supports large private-cloud deployments for frontier AI labs. | No free tier. Volume/reserved discounts. |
-| **[Modal](https://modal.com/)** | Serverless GPU platform for Python functions and AI workloads; scale-to-zero, per-second billing, zero infrastructure management. | **Free Tier:** $30/month in free compute credits. |
-| **[Nebius AI Cloud](https://nebius.com/)** (Nebius AI) | European/sovereign-focused GPU cloud with managed Kubernetes, Slurm, full ML stack, and competitive H100/H200 pricing. | No free tier. Custom enterprise pricing. |
-| **[TensorDock](https://tensordock.com/)** | Budget-oriented GPU cloud with transparent pricing and good reliability for individuals and small teams. | No free tier. RTX 3090/4090 at budget rates. |
-| **[Cudo Compute](https://www.cudocompute.com/)** | GPU cloud marketplace and provider offering on-demand instances with free egress options and competitive rates. | No free tier. Pay-as-you-go marketplace. |
-| **[Voltage Park](https://www.voltagepark.com/)** | Large-scale H100-focused GPU cloud targeting foundation-model training clusters with competitive on-demand pricing. | No free tier. Focus on scale and reservations. |
-| **[Hyperbolic](https://hyperbolic.xyz/)** | AI-native compute platform emphasizing agent hosting and open-source model support. | Free inference API tier; compute has no free tier. |
-| **[Hyperstack](https://www.hyperstack.cloud/)** | On-demand GPU cloud (H100, A100, L40S) with per-minute billing, European presence, and developer-friendly access. | No free tier. On-demand per-minute billing. |
+| Platform | Description | Pricing / Free Tier | Est. Valuation / Size |
+| :--- | :--- | :--- | :--- |
+| **[CoreWeave](https://www.coreweave.com/)** | Large-scale NVIDIA GPU cloud purpose-built for AI training and inference; bare-metal clusters, InfiniBand, Kubernetes-native (CKS), enterprise SLAs. | No free tier. Enterprise pricing (e.g., H100 ~$4.25/hr). | ~$19B |
+| **[Nebius AI Cloud](https://nebius.com/)** (Nebius AI) | European/sovereign-focused GPU cloud with managed Kubernetes, Slurm, full ML stack, and competitive H100/H200 pricing. | No free tier. Custom enterprise pricing. | ~$2B+ |
+| **[Crusoe Cloud](https://www.crusoe.ai/)** (Crusoe Energy) | Sustainable GPU cloud powered by stranded/flared gas and renewables; vertically integrated data centers focused on energy efficiency and large contiguous clusters. | No free tier. Competitive on-demand pricing. | ~$1.75B |
+| **[Lambda](https://lambda.ai/)** (Lambda Labs) | Developer- and researcher-friendly GPU cloud with transparent pricing, on-demand and reserved H100/A100 clusters, strong academic ties. | No free tier. A100 ~$1.10/hr, H100 ~$2.49/hr. | ~$1.5B |
+| **[Hyperstack](https://www.hyperstack.cloud/)** | On-demand GPU cloud (H100, A100, L40S) with per-minute billing, European presence, and developer-friendly access. | No free tier. On-demand per-minute billing. | ~$1B+ |
+| **[Voltage Park](https://www.voltagepark.com/)** | Large-scale H100-focused GPU cloud targeting foundation-model training clusters with competitive on-demand pricing. | No free tier. Focus on scale and reservations. | ~$500M+ |
+| **[RunPod](https://www.runpod.io/)** | Developer-centric GPU marketplace with pods, serverless endpoints, per-second billing, wide GPU selection (consumer to H100/H200), and strong community cloud. | No free tier. RTX 3090 ~$0.20/hr, H100 ~$1.99/hr. | ~$150M+ |
+| **[Fluidstack](https://www.fluidstack.io/)** | Distributed GPU cloud combining private capacity and marketplace aggregation; supports large private-cloud deployments for frontier AI labs. | No free tier. Volume/reserved discounts. | ~$100M+ |
+| **[Modal](https://modal.com/)** | Serverless GPU platform for Python functions and AI workloads; scale-to-zero, per-second billing, zero infrastructure management. | **Free Tier:** $30/month in free compute credits. | ~$100M+ |
+| **[Hyperbolic](https://hyperbolic.xyz/)** | AI-native compute platform emphasizing agent hosting and open-source model support. | Free inference API tier; compute has no free tier. | ~$40M+ |
+| **[Cudo Compute](https://www.cudocompute.com/)** | GPU cloud marketplace and provider offering on-demand instances with free egress options and competitive rates. | No free tier. Pay-as-you-go marketplace. | ~$30M+ |
+| **[Vast.ai](https://vast.ai/)** | Peer-to-peer GPU marketplace offering some of the lowest prices; rent from independent hosts or data centers with interruptible/spot options. | No free tier. Varies by host, often lowest market rates. | ~$20M+ |
+| **[TensorDock](https://tensordock.com/)** | Budget-oriented GPU cloud with transparent pricing and good reliability for individuals and small teams. | No free tier. RTX 3090/4090 at budget rates. | ~$10M+ |
 
 ## 🛠️ Open-Source GitHub Projects
 
