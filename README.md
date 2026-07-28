@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome GPU Cloud Platform Banner" />
+</div>
+
 # Awesome-GPU-Cloud-Platform
 ## Top GPU Cloud Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
