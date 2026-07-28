@@ -62,31 +62,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[SkyPilot](https://github.com/skypilot-org/skypilot)**  
-  Open-source framework to run, manage, and scale AI workloads across any infrastructure (Kubernetes, Slurm, 20+ clouds including Lambda/RunPod/Vast.ai/Nebius/Crusoe, on-prem). Unifies compute into one “sky”, optimizes for cost and availability, supports spot recovery.
-
-- **[GPUStack](https://github.com/gpustack/gpustack)**  
-  Open-source GPU cluster manager for high-performance AI model serving (vLLM, SGLang, TensorRT-LLM) and on-demand SSH-accessible GPU instances. Multi-cluster, multi-vendor (NVIDIA, AMD, Apple Silicon, Ascend, etc.), OpenAI-compatible APIs.
-
-- **[NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator)**  
-  Kubernetes operator that automates installation, configuration, and lifecycle management of NVIDIA drivers, container runtime, device plugin, DCGM monitoring, and MIG on GPU nodes.
-
-- **[NVIDIA DeepOps](https://github.com/NVIDIA/deepops)**  
-  Ansible-based toolkit for rapidly deploying and managing GPU clusters with Kubernetes or Slurm, including drivers, networking, monitoring, and best practices for DGX and commodity hardware.
-
-- **[KAI Scheduler](https://github.com/NVIDIA/KAI-scheduler)**  
-  Open-source Kubernetes-native scheduler optimized for large-scale AI/ML workloads; supports GPU sharing, elastic jobs, DRA, and high-throughput scheduling across thousands of nodes.
-
-- **[Kubeflow Trainer](https://github.com/kubeflow/trainer)**  
-  Kubernetes-native distributed training and LLM fine-tuning platform supporting PyTorch, JAX, DeepSpeed, Hugging Face, MPI, and more, with multi-node multi-GPU orchestration.
-
-- **[vLLM](https://github.com/vllm-project/vllm)**  
+- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
   High-throughput, memory-efficient open-source LLM inference and serving engine with PagedAttention, continuous batching, and tensor/pipeline parallelism — widely used as the backend for self-hosted GPU clouds.
 
-- **[SGLang](https://github.com/sgl-project/sglang)**  
+- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social&color=white)](https://github.com/sgl-project/sglang/stargazers)  
   Fast open-source serving framework for large language and multimodal models; strong structured generation and high-performance inference backend.
 
-- **[Akash Network](https://github.com/akash-network)**  
+- **[SkyPilot](https://github.com/skypilot-org/skypilot)** [![GitHub stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=social&color=white)](https://github.com/skypilot-org/skypilot/stargazers)  
+  Open-source framework to run, manage, and scale AI workloads across any infrastructure (Kubernetes, Slurm, 20+ clouds including Lambda/RunPod/Vast.ai/Nebius/Crusoe, on-prem). Unifies compute into one “sky”, optimizes for cost and availability, supports spot recovery.
+
+- **[GPUStack](https://github.com/gpustack/gpustack)** [![GitHub stars](https://img.shields.io/github/stars/gpustack/gpustack?style=social&color=white)](https://github.com/gpustack/gpustack/stargazers)  
+  Open-source GPU cluster manager for high-performance AI model serving (vLLM, SGLang, TensorRT-LLM) and on-demand SSH-accessible GPU instances. Multi-cluster, multi-vendor (NVIDIA, AMD, Apple Silicon, Ascend, etc.), OpenAI-compatible APIs.
+
+- **[NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/gpu-operator?style=social&color=white)](https://github.com/NVIDIA/gpu-operator/stargazers)  
+  Kubernetes operator that automates installation, configuration, and lifecycle management of NVIDIA drivers, container runtime, device plugin, DCGM monitoring, and MIG on GPU nodes.
+
+- **[Kubeflow Trainer](https://github.com/kubeflow/trainer)** [![GitHub stars](https://img.shields.io/github/stars/kubeflow/trainer?style=social&color=white)](https://github.com/kubeflow/trainer/stargazers)  
+  Kubernetes-native distributed training and LLM fine-tuning platform supporting PyTorch, JAX, DeepSpeed, Hugging Face, MPI, and more, with multi-node multi-GPU orchestration.
+
+- **[NVIDIA DeepOps](https://github.com/NVIDIA/deepops)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/deepops?style=social&color=white)](https://github.com/NVIDIA/deepops/stargazers)  
+  Ansible-based toolkit for rapidly deploying and managing GPU clusters with Kubernetes or Slurm, including drivers, networking, monitoring, and best practices for DGX and commodity hardware.
+
+- **[KAI Scheduler](https://github.com/NVIDIA/KAI-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/KAI-scheduler?style=social&color=white)](https://github.com/NVIDIA/KAI-scheduler/stargazers)  
+  Open-source Kubernetes-native scheduler optimized for large-scale AI/ML workloads; supports GPU sharing, elastic jobs, DRA, and high-throughput scheduling across thousands of nodes.
+
+- **[Akash Network](https://github.com/akash-network)** [![GitHub stars](https://img.shields.io/github/stars/akash-network/node?style=social&color=white)](https://github.com/akash-network/node/stargazers)  
   Decentralized open-source cloud marketplace (Cosmos SDK) enabling peer-to-peer GPU and compute rental with reverse-auction pricing.
 
 ### Additional Strong Open-Source Options
