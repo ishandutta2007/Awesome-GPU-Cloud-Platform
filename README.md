@@ -6,6 +6,11 @@
 
 <meta name="description" content="Curated list of the best GPU Cloud Platforms, GPU-as-a-Service, and open-source GPU cluster managers for AI training and inference.">
 <meta name="keywords" content="GPU Cloud, AI, ML, Deep Learning, H100, A100, NVIDIA, Kubernetes, GPU-as-a-Service, vast.ai, runpod, coreweave">
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 ## Top GPU Cloud Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on GPU-as-a-Service, AI/ML Training & Inference, Bare-Metal Clusters & Cost-Efficient Compute*
