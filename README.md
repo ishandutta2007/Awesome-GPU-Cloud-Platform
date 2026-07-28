@@ -16,13 +16,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 ### Core Platforms (GPU Cloud / Neoclouds)
 - **[CoreWeave](https://www.coreweave.com/)**  
@@ -64,7 +64,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Hyperstack](https://www.hyperstack.cloud/)**  
   On-demand GPU cloud (H100, A100, L40S) with per-minute billing, European presence, and developer-friendly access.
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 - **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
   High-throughput, memory-efficient open-source LLM inference and serving engine with PagedAttention, continuous batching, and tensor/pipeline parallelism — widely used as the backend for self-hosted GPU clouds.
@@ -106,7 +106,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom systems**: Combine **SkyPilot** or **GPUStack** with **NVIDIA GPU Operator**, **Kubernetes + Kueue**, **vLLM/SGLang**, **DeepOps**, and monitoring stacks (Prometheus/Grafana/DCGM) to create private or multi-cloud GPU platforms equivalent to commercial neoclouds.
 
-## How to Contribute
+## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -114,7 +114,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - GPU cloud usage involves significant cost, data-transfer, and compliance considerations (export controls, data residency, etc.).
 - Self-hosted open-source solutions require proper security hardening, driver management, networking (InfiniBand/RoCE), and operational expertise for production reliability.
