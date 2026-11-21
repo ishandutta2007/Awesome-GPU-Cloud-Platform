@@ -48,6 +48,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Cudo Compute](https://www.cudocompute.com/)** | GPU cloud marketplace and provider offering on-demand instances with free egress options and competitive rates. | No free tier. Pay-as-you-go marketplace. | ~$30M+ |
 | **[Vast.ai](https://vast.ai/)** | Peer-to-peer GPU marketplace offering some of the lowest prices; rent from independent hosts or data centers with interruptible/spot options. | No free tier. Varies by host, often lowest market rates. | ~$20M+ |
 | **[TensorDock](https://tensordock.com/)** | Budget-oriented GPU cloud with transparent pricing and good reliability for individuals and small teams. | No free tier. RTX 3090/4090 at budget rates. | ~$10M+ |
+| **[CloudGPU](https://cloudgpu.app/)** | Hosted GPU compute for AI agents, with public GPU discovery and quotes plus REST API and MCP access. | Usage-based GPU billing ([pricing](https://cloudgpu.app/pricing)). | Not publicly verified. |
 
 ## 🛠️ Open-Source GitHub Projects
 
